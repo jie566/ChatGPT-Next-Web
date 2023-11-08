@@ -516,7 +516,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}>清枫AI</div>
             <div className={styles["sub-title"]}>
-              清枫AI-chatgpt
+              清枫AI人工智能
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
